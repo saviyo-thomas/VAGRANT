@@ -16,4 +16,4 @@ Email: admin@gmail.com
 Password: admin
 
 
->use db.sql for creating databse
+>use `db.sql` for creating databse
